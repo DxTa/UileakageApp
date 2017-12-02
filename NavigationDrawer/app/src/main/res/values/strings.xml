@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Leakage Report Form</string>
+    <string name="action_settings">How To Use</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string-array name="names">
+        <item>Kenyata 45</item>
+        <item>Mombassa 60</item>
+        <item>Nairobi district</item>
+        <item>Uhuru 48</item>
+
+    </string-array>
+    <string name="title_message">Select Leakage Type:</string>
+    <string name="pipe_blended">Pipe Blended</string>
+    <string name="pipe_broken">Pipe Broken</string>
+    <string name="pipe_other">Other</string>
+    <string name="selected">Selected</string>
+</resources>
